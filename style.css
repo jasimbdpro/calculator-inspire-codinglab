@@ -12,6 +12,12 @@ body {
     justify-content: center;
 }
 
+.container {
+    background-color: rgb(43, 43, 43);
+    padding: 15px;
+    border-radius: 15px;
+}
+
 .display {
     margin-bottom: 6px;
     height: 40px;
